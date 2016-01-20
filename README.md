@@ -2,6 +2,13 @@
 A program that spews out the most common words in English.
 It's your job to translate them into #{LANGUAGE_STUDYING}.
 
+## Development Build Commands
+
+To run unit tests
+    mix tests
+
+To build a binary:
+    mix escript.build && ./madlib
 
 ## Installation
 
