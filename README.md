@@ -1,6 +1,7 @@
 # Madlib
+A program that spews out the most common words in English.
+It's your job to translate them into #{LANGUAGE_STUDYING}.
 
-**TODO: Add description**
 
 ## Installation
 
@@ -18,3 +19,8 @@ If [available in Hex](https://hex.pm/docs/publish), the package can be installed
           [applications: [:madlib]]
         end
 
+## TODO
+
+* Add a web gui.
+* Add more sentence types.
+* Clean up the vocab list.
